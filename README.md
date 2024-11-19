@@ -1,4 +1,4 @@
-## Ex No: 06 -Implementation-of-Traffic_light_controller_Synthesis-using-Cadence-EDA-Tools 
+## EXP6: Implementation-of-Traffic_light_controller_Synthesis-using-Cadence-EDA-Tools 
 
 ### Aim:
 
